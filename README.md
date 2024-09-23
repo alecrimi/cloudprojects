@@ -7,6 +7,7 @@ create a docker image and upload it to your AWS space, connecting properly task 
 
 
 Available projects
+
 **1. Asynchronous learning with Kafka**
 
 Set up a Kafka messaging-based architecture as depicted in
