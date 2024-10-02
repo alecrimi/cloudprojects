@@ -48,10 +48,13 @@ Chainlit https://chainlit.io/
 Mistral AI: https://mistral.ai/
 
 
-**4. Deploy on AWS the GeminiPro vision model**
+**4. Deploy on AWS the GeminiPro vision model or even better LLAVA**
 
-Read how multimodal are used, and deploy a query system even without a guy or with simple NodeJs extension. 
+Read how multimodal are used, and deploy a query system even without a GUI or with simple NodeJs extension. 
 Most of the tutorial online assumes you are using GoogleCloud, so the challenge is the portng on AWS.
 
 Read the article
 https://developers.google.com/solutions/content-driven/ai-images?continue=https%3A%2F%2Fdevelopers.google.com%2Flearn%2Fpathways%2Fsolution-ai-gemini-images%23article-https%3A%2F%2Fdevelopers.google.com%2Fsolutions%2Fcontent-driven%2Fai-images
+
+Llava would be even better: https://llava-vl.github.io/
+I have currently managed to deploy this model on a RaspberryPI 5 with 8GB RAM (current challenge RaspberryPI 4 with 2 GB RAM), so you should be able to put it on AWS
